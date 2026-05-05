@@ -1,3 +1,5 @@
+<img width="1600" height="900" alt="better-language-models" src="https://github.com/user-attachments/assets/ac25dadd-4e04-48b5-bcc3-d1bd3e2d4121" />
+
 # GPT-2
 Implementing GPT2 from Scratch
 
