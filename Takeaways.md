@@ -1,0 +1,10 @@
+- The implementation use nn.Linear in the attention layers to generate qkv
+- I think the above is unnecessary, as it introduces redundant bias weights
+- Learnt about the nn.Gelu non linearity, how it is superior over Relu for certain tasks
+-   - also learnt about the activations='tanh' version
+- Layer Norms used in this paper are different from that in the original paper : Attention Is All You Need
+- Attention and MLP can be thought of as Reduce and Map operations respectively.
+- so a transformer can be though of as a repeated application of Map-Reduce on tokens, to share and process information
+- While copying weights, we must make sure gradient computations are turned off.
+- learnt about @dataclass and @classmethod operators in python.
+- 
