@@ -18,6 +18,7 @@ The goal for this repo to achieve the following
 - We later switch to a more refined data set : FineWebTune.
 
 ## Resources Used to Refer
+![Check out the video](https://img.youtube.com/vi/l8pRSuU81PU/0.jpg)([https://youtube.com](https://www.youtube.com/watch?v=l8pRSuU81PU))
 - Andrej Karparthy's video :   https://www.youtube.com/watch?v=l8pRSuU81PU&t=1802s
 - Andrej Karparthy's repo :   https://github.com/karpathy/build-nanogpt
 - Attention is all you need paper : https://arxiv.org/abs/1706.03762
