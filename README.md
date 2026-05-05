@@ -1,6 +1,6 @@
 <img width="1600" height="900" alt="better-language-models" src="https://github.com/user-attachments/assets/ac25dadd-4e04-48b5-bcc3-d1bd3e2d4121" />
 
-# GPT-2 : From Scratch  <img width="887" height="475" alt="Screenshot from 2026-05-05 23-37-29" src="https://github.com/user-attachments/assets/b13e5760-a240-4624-8ff0-3661b1fc272c" />
+# <img height="40" alt="openai-logo-png" src="https://github.com/user-attachments/assets/a04f82be-094a-4153-8517-7f8561c7b943" /> GPT-2 : From Scratch 
 
 
 Implementing GPT2 from Scratch
