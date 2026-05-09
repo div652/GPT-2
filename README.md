@@ -17,6 +17,14 @@ The goal for this repo to achieve the following
   - Using DistributedDataParallel technqiues
 - We later switch to a more refined data set : FineWebTune.
 
+Checkpoint 1  : 
+Finished the basic version of the code.
+Model is training on the gpu, but I am using a small batch size of 4, since the RAM is limited. 
+I achieved loss upto 5.2 on the data. 
+The training curve looks like this : 
+<img height="200" alt="Normal_train" src="https://github.com/user-attachments/assets/24fe79e5-2771-466b-9ebe-bc866949dea8" />
+Time per token : 
+
 ## Resources Used to Refer
 ![Check out the video](https://img.youtube.com/vi/l8pRSuU81PU/0.jpg)([https://youtube.com](https://www.youtube.com/watch?v=l8pRSuU81PU))
 - Andrej Karparthy's video :   https://www.youtube.com/watch?v=l8pRSuU81PU&t=1802s
