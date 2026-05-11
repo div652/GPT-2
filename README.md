@@ -43,6 +43,11 @@ Batch_size = 16
 use 'high' predicistoin 
 epoch : 0, step : 38, loss : 6.3488264083862305, dt: 404.91ms , tok/sec: 40463.02
 
+Achieved LOSS Below 5 .After 1000 steps almost. 
+epoch : 0, step : 1104, loss : 4.933437347412109, dt: 407.97ms , tok/sec: 40159.87
+
+<img height="213" alt="image" src="https://github.com/user-attachments/assets/505303dc-6a58-4e16-ac19-a60307a4c009" />
+
 
 
 ## Resources Used to Refer
