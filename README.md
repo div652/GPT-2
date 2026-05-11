@@ -31,7 +31,18 @@ Time per forward pass : 1120 ms.
 ### Checkpoint 2:
 Moved to Jarvis Labs. 
 Models suddenly trains so much faster. 
-epoch : 0, step : 100, loss : 6.503375053405762, dt: 294.09ms , tok/sec: 13927.59
+epoch : 0, step : 100, loss : 6.503375053405762, dt: 294.09ms , tok/sec: 13927.59. Batch_size =4 
+
+
+Shifted to batch_size = 16 
+epoch : 0, step : 51, loss : 6.358279228210449, dt: 1121.38ms , tok/sec: 14610.57
+
+
+## Checkpoint 3 : Using TF-lite 32. 
+Batch_size = 16 
+use 'high' predicistoin 
+epoch : 0, step : 38, loss : 6.3488264083862305, dt: 404.91ms , tok/sec: 40463.02
+
 
 
 ## Resources Used to Refer
