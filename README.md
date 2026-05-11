@@ -29,6 +29,10 @@ Tok/sec : 3650
 Time per forward pass : 1120 ms. 
 
 ### Checkpoint 2:
+Moved to Jarvis Labs. 
+Models suddenly trains so much faster. 
+epoch : 0, step : 100, loss : 6.503375053405762, dt: 294.09ms , tok/sec: 13927.59
+
 
 ## Resources Used to Refer
 ![Check out the video](https://img.youtube.com/vi/l8pRSuU81PU/0.jpg)([https://youtube.com](https://www.youtube.com/watch?v=l8pRSuU81PU))
